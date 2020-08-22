@@ -37,8 +37,14 @@ nightMode: false
 
 # Comments 评论功能
 comments:
-  disqus: false
-  disqus_url: 'jehttps://liaokeyu.disqus.com/embed.js'
+  gitalk: true
+  clientID: c141f2211e4fb5d1ad06
+  secret: bf9624ec9b279d45111df41bd25b996a3787b07d
+  repo: AmeliaWang93.github.io
+  owner: AmeliaWang93
+  admin: AmeliaWang93
+  distractionFreeMode: false
+
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
