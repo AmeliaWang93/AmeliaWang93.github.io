@@ -78,10 +78,13 @@ tags:
 - 首先你需要有nodejs
 
 - 安装 Ruby + DevKit + Jekyll并启动调试，可参照https://www.jianshu.com/p/b11c45afd3e6
-  - 其中：`进入你博客所在的文件夹，打开配置文件_config.yml，找到 gems: [jekyll-paginate] 这句语句，并将其改成 plugins: [jekyll-paginate]` 这个不需要做
+  - 其中："进入你博客所在的文件夹，打开配置文件_config.yml，找到 gems: [jekyll-paginate] 这句语句，并将其改成 plugins: [jekyll-paginate]" 这个不需要做
   - 运行`jekyll s` 或者`jekyll server` 后，可在浏览器https://127.0.0.1:4000查看页面
   - `Ctrl+ c`可停止
 
 - 将修改通过"GitHub桌面版"推送即可
 
 **注意**：`.gitignore`文件中可过滤不需要上传的文件或文件夹，如`.idea`,`.jekyll-cache`等
+
+### 5. 添加gitalk
+
