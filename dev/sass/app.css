@@ -649,7 +649,7 @@ a {
 
 .author-detail {
   position: relative;
-  top: -35px; }
+  top: 0px; }
   .author-detail .comment {
     margin-bottom: 60px; }
 
