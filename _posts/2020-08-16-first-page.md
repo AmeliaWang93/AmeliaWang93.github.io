@@ -41,13 +41,13 @@ tags:
 
 ​	**注意：**想要用`用户名.github.io`访问页面，仓库的名称必须是 `用户名.github.io`
 
-### 3. 克隆仓库
+#### 3. 克隆仓库
 
 ​	这一步可在本地安装git，使用命令行处理。更简单的方法，下载一个"GitHub桌面版"。
 
 ​	【Clone repository...】将github上的仓库拉取到本地。
 
-### 4. 换主题
+#### 4. 换主题
 
 ​	用了[H2O]( https://github.com/kaeyleo/jekyll-theme-H2O)，觉得还OK，有心情可以自己写，先就着简单的来。
 
@@ -86,7 +86,7 @@ tags:
 
 **注意**：`.gitignore`文件中可过滤不需要上传的文件或文件夹，如`.idea`,`.jekyll-cache`等
 
-### 5. 添加gitalk
+#### 5. 添加gitalk
 
 ​	可参考[https://www.jianshu.com/p/796469455a43](https://www.jianshu.com/p/796469455a43)
 
@@ -163,7 +163,7 @@ comments:
 - 网页要推到github，需要自己先访问登录
 - 相关问题可参考：[https://blog.csdn.net/weiwosuoai/article/details/90573929](https://blog.csdn.net/weiwosuoai/article/details/90573929)
 
-### 6. 写在最后
+#### 6. 写在最后
 
 页面上任何想diy的地方，都可进行调整。
 
